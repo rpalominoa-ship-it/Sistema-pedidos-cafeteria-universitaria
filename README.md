@@ -81,8 +81,6 @@ El control de versiones es fundamental para el mantenimiento eficiente del softw
 #### Beneficios Implementados
 - Trazabilidad completa de todos los cambios realizados
 
-- Desarrollo colaborativo sin conflictos entre equipo
-
 - Rollback seguro en caso de implementaciones problemáticas
 
 - Documentación automática del historial de desarrollo
@@ -107,3 +105,4 @@ El uso adecuado de control de versiones reduce significativamente los costos de 
 - Automatizar procesos de integración y despliegue
 
 - Mantener documentación siempre actualizada
+
